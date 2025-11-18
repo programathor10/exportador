@@ -3,6 +3,8 @@
 ![Python](https://img.shields.io/badge/python-3.x-blue.svg)
 ![Status](https://img.shields.io/badge/status-active-success.svg)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey.svg)
+![CI](https://github.com/programathor10/exportador/actions/workflows/tests.yml/badge.svg)
+
 
 Este proyecto es un script modular en **Python** que se conecta a una **API REST**, valida la información obtenida y genera reportes automáticos en **Excel** y **JSON**.  
 Incluye manejo de errores, logs, estructura profesional y parámetros por línea de comandos (CLI).
