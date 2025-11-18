@@ -5,6 +5,8 @@ venv/
 # Cachés de Python
 __pycache__/
 *.pyc
+test/__pycache__/
+
 
 # Archivos generados por el script
 output/
@@ -12,3 +14,4 @@ output/
 # Archivos de editor/IDE
 .vscode/
 .idea/
+test/__pycache__/
