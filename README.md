@@ -21,6 +21,3 @@ Incluye manejo de errores, logs, estructura profesional y parámetros por línea
   - nivel de logs
 
 ---
-
-## 🧱 Estructura del Proyecto
-
